@@ -1,5 +1,31 @@
-# 💫 About Me:
-🔭 I’m currently working on 3D modeling and simulation of salt diffusion in water, using MATLAB and Python to analyze diffusion dynamics with real-world experiments.<br><br>👯 I’m looking to collaborate on data-driven projects involving fluid dynamics, environmental modeling, or similar physics-based simulations. I’m also open to collaborating on projects that use Python for data analysis and machine learning.<br><br>🧠 I’m looking for help with advanced techniques in machine learning to improve my model's accuracy and optimizing computational performance for large simulations in MATLAB or Python.<br><br>🌱 I’m currently learning more about fluid dynamics and machine learning techniques, as well as diving into real-world applications of environmental modeling.<br><br>💬 Ask me about my research on salt diffusion, using MATLAB for 3D simulations, or creating interactive visualizations with Streamlit.<br><br>
+🧑‍💻 About Me:
+I’m passionate about simulating and analyzing complex systems, with a focus on:
+
+Salt diffusion in water: Developing 2D models using physical and numerical approaches (MATLAB, Python).
+IoT and automation: Designing a connected greenhouse and managing it with Home Assistant, including ESP32/ESP8266 modules.
+
+🔭 What I’m currently working on:
+Modeling and Simulation
+
+Salt diffusion-convection in water using MATLAB and Python.
+Developing an interactive app for adjusting parameters and visualizing results.
+Analyzing experimental data and predicting behavior with a MATLAB model.
+
+IoT and Home Automation
+
+Managing a connected greenhouse with sensors for humidity, temperature, and light.
+Home automation with Home Assistantfor controlling speakers, lights, camera, water valve.
+
+Web Development and Data Analysis
+
+Building a Flask server for data analysis.
+Generating dynamic charts and creating visualizations with Streamlit.
+
+👯 Looking to collaborate on:
+Projects related to physical or environmental system modeling.
+
+🌱 Currently learning:.
+API integration and connected device management within home automation ecosystems.
 
 
 # 💻 Tech Stack:
