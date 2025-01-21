@@ -5,6 +5,7 @@ Salt diffusion in water: Developing 2D models using physical and numerical appro
 IoT and automation: Designing a connected greenhouse and managing it with Home Assistant, including ESP32/ESP8266 modules.
 
 🔭 What I’m currently working on:
+
 Modeling and Simulation
 
 Salt diffusion-convection in water using MATLAB and Python.
