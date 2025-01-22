@@ -2,7 +2,7 @@
 I’m passionate about simulating and analyzing complex systems, with a focus on:
 
 Salt diffusion in water: Developing 2D models using physical and numerical approaches (MATLAB, Python).
-IoT and automation: Designing a connected greenhouse and managing it with Home Assistant, including ESP32/ESP8266 modules.
+IoT and automation: Designing a connected greenhouse and managing it with Home Assistant, including ESP32 and Arduino modules.
 
 🔭 What I’m currently working on:
 
