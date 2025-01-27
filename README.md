@@ -1,18 +1,22 @@
 About Me 👨‍💻
+
 I’m focused on:
 Salt diffusion modeling: Creating and analyzing 2D models (MATLAB, Python).
 IoT and automation: Managing smart systems, including a connected greenhouse with ESP32/Arduino and Home Assistant.
 
 🔭 Current Projects:
+
 Simulating salt diffusion-convection in water (MATLAB, Python).
 Managing a smart greenhouse with sensors for temperature, humidity, and light.
 Automating home devices with Home Assistant (lights, speakers, water systems).
 Developing a Flask server.
 
-👯 Collaboration Interests
+👯 Collaboration Interests: 
+
 Environmental or physical system modeling projects.
 
-🌱 Currently Learning
+🌱 Currently Learning: 
+
 API integration for IoT and home automation.
 
 # 💻 Tech Stack:
