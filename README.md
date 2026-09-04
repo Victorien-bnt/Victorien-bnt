@@ -108,8 +108,6 @@ flowchart LR
 
 - **L'évaluation des fonctionnalités LLM en production** — passer du ressenti à une couverture mesurable à chaque changement de prompt : fidélité des réponses, qualité du retrieval, budgets de coût et de latence.
 - **Les frameworks d'orchestration d'agents** — j'appelle aujourd'hui les SDK des fournisseurs directement ; je travaille LangGraph et LlamaIndex pour voir ce qu'ils apportent face à une orchestration écrite à la main.
-- **L'Infrastructure as Code** — mes déploiements reposent sur bash et git, ce qui tient à six serveurs et ne tiendrait pas à soixante. J'apprends Ansible et Terraform.
-- **L'open source** — packager les parties réutilisables de mon travail client en outils réellement utilisables par la communauté.
 
 ---
 
